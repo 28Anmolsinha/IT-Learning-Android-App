@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mcq_page_background2"
+    tools:context=".MCQTestPage">
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:indeterminate="false"
+        android:max="60"
+        android:progress="4000"
+        android:progressTint="@color/purple_500"
+        android:layout_marginTop="20dp"/>
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/progress_bar"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="When was Java found and who was the founder?"
+        android:textColor="@color/black"
+        android:textSize="38sp"
+        android:scrollbars="vertical"/>
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_below="@+id/question"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginRight="24dp"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radioButton_1"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="C++"
+            android:paddingLeft="16dp"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="sans-serif"
+            android:buttonTint="@color/black"/>
+
+        <RadioButton
+            android:id="@+id/radioButton_2"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="java"
+            android:paddingLeft="16dp"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="sans-serif"
+            android:buttonTint="@color/black"/>
+
+        <RadioButton
+            android:id="@+id/radioButton_3"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="python"
+            android:paddingLeft="16dp"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="sans-serif"
+            android:buttonTint="@color/black"/>
+
+        <RadioButton
+            android:id="@+id/radioButton_4"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="php"
+            android:paddingLeft="16dp"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:fontFamily="sans-serif"
+            android:buttonTint="@color/black"/>
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/next_button"
+        android:layout_width="130dp"
+        android:layout_height="50dp"
+        android:text="Next"
+        android:textColor="@color/white"
+        android:background="@drawable/box_shape2"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="40dp"/>
+
+</RelativeLayout>

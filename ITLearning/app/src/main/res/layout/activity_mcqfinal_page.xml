@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mcq_page_background2"
+    tools:context=".MCQFinalPage">
+
+    <TextView
+        android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:fontFamily="sans-serif-medium"
+        android:text="Test Completed"
+        android:textColor="@color/black"
+        android:textSize="48dp"
+        android:textStyle="italic" />
+
+    <com.mikhaellopez.circularprogressbar.CircularProgressBar
+        android:id="@+id/circularProgressBar"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        app:cpb_background_progressbar_color="#F84646"
+        app:cpb_background_progressbar_width="10dp"
+        app:cpb_progress="20"
+        app:cpb_progress_direction="to_right"
+        app:cpb_progressbar_color="#30EF0E"
+        app:cpb_progressbar_width="10dp"
+        app:cpb_round_border="false" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/heading"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/congo_icon" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-medium"
+            android:text="Score"
+            android:textColor="@color/black"
+            android:textSize="38dp" />
+
+        <TextView
+            android:id="@+id/testResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="sans-serif-medium"
+            android:text="1/5"
+            android:textColor="@color/black"
+            android:textSize="38dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/share_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/home_button"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/box_shape2"
+        android:textColor="@color/white"
+        android:text="Share" />
+
+    <Button
+        android:id="@+id/home_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/box_shape2"
+        android:textColor="@color/white"
+        android:text="Home" />
+
+</RelativeLayout>
