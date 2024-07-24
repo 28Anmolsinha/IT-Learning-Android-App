@@ -20,7 +20,7 @@ Download will be started automatically. After then install it on your android de
 5. User Friendly Interface
 6. Knowledge Evaluation
 
-# 
+# Preview
 
 
 <img src="https://github.com/user-attachments/assets/2116443f-4782-4ff0-8cd5-3ae772458c8d" width="250" height="500"/> <img src="https://github.com/user-attachments/assets/ca0abff9-41d4-49d8-87d0-078e68e14792" width="250" height="500" /> 
