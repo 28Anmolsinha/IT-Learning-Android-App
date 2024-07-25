@@ -22,12 +22,12 @@ Download will be started automatically. After then install it on your android de
 
 # Preview
 
-
-<img src="https://github.com/user-attachments/assets/2116443f-4782-4ff0-8cd5-3ae772458c8d" width="250" height="500"/> <img src="https://github.com/user-attachments/assets/ca0abff9-41d4-49d8-87d0-078e68e14792" width="250" height="500" /> 
-<img src="https://github.com/user-attachments/assets/9b90c312-d29e-4601-bee2-035201a0e0c3" width="250" height="500"/> 
-<img src="https://github.com/user-attachments/assets/21f7f37a-2955-4214-a643-add0724333fa" width="250" height="500"/>
-<img src="https://github.com/user-attachments/assets/33042e73-7658-4b05-b5b2-f3c406b4dca3" width="250" height="500"/>
-<img src="https://github.com/user-attachments/assets/6c1f0e55-ae5e-484d-bacb-3daae9fd9b90" width="250" height="500"/> 
-<img src="https://github.com/user-attachments/assets/910a03bb-4319-46f3-9c4e-f049dcfd5b42"  width="250" height="500"/> 
-<img src="https://github.com/user-attachments/assets/86cc7342-efd5-4abf-81d6-ceb094e66e87" width="250" height="500"/>
-<img src="https://github.com/user-attachments/assets/274b19fd-0e5c-4e41-96ae-6b9ccd359ada" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/cb835f89-7217-435d-992d-51d6f10ba31f" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/c085fe2b-f7e0-4ef3-a86b-f487c7a40e94" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/1eddb240-e883-4a20-a9fe-068cdc1b2ad5" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/145d27a7-6662-4a38-9fd0-7ccee1b71653" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/db7441d6-2a0c-4f7b-98c4-2dfef37d9ae8" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/384af8da-249e-4311-b32e-c9614e973ca0" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/6ef954be-884e-4c22-8cac-2ee38b680a8c" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/65cd5d67-bf11-4738-8cbe-ee1bce75f95a" width="250" height="500"/> 
+<img src="https://github.com/user-attachments/assets/3255c20d-2e77-4702-a0ca-da9a9b2bc49a" width="250" height="500"/>
