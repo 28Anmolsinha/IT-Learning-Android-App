@@ -9,7 +9,7 @@ You can install this application to test on your android smartphone. To download
 https://github.com/28Anmolsinha/IT-Learning-Android-App/releases/download/latest/app-debug.apk
 ```
 
-Download will be started automatically. After then install it on your android device. Open the application.
+Download will be started automatically. After then we can install it on your android device. Open the application.
 
 # Features
 
