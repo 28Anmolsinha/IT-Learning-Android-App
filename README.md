@@ -23,11 +23,11 @@ Download will be started automatically. After then install it on your android de
 # Preview
 
 <img src="https://github.com/user-attachments/assets/cb835f89-7217-435d-992d-51d6f10ba31f" width="250" height="500"/>
-<img src="https://github.com/user-attachments/assets/c085fe2b-f7e0-4ef3-a86b-f487c7a40e94" width="250" height="500"/> 
 <img src="https://github.com/user-attachments/assets/1eddb240-e883-4a20-a9fe-068cdc1b2ad5" width="250" height="500"/> 
 <img src="https://github.com/user-attachments/assets/145d27a7-6662-4a38-9fd0-7ccee1b71653" width="250" height="500"/>
 <img src="https://github.com/user-attachments/assets/db7441d6-2a0c-4f7b-98c4-2dfef37d9ae8" width="250" height="500"/>
 <img src="https://github.com/user-attachments/assets/384af8da-249e-4311-b32e-c9614e973ca0" width="250" height="500"/>
+<img src="https://github.com/user-attachments/assets/c085fe2b-f7e0-4ef3-a86b-f487c7a40e94" width="250" height="500"/> 
 <img src="https://github.com/user-attachments/assets/6ef954be-884e-4c22-8cac-2ee38b680a8c" width="250" height="500"/> 
 <img src="https://github.com/user-attachments/assets/65cd5d67-bf11-4738-8cbe-ee1bce75f95a" width="250" height="500"/> 
 <img src="https://github.com/user-attachments/assets/3255c20d-2e77-4702-a0ca-da9a9b2bc49a" width="250" height="500"/>
