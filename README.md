@@ -19,3 +19,9 @@ Download will be started automatically. After then we can install it on your and
 4. Expert-Curated Content
 5. User Friendly Interface
 6. Knowledge Evaluation
+
+# Preview
+
+![785shots_so (1) (1)](https://github.com/user-attachments/assets/97bfa8f1-8767-45fb-8d72-92310929b2a6 )
+
+   
