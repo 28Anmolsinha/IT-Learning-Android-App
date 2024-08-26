@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540735252621",
+    "project_id": "it-learning-1e0a3",
+    "storage_bucket": "it-learning-1e0a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540735252621:android:c0671f1823234c91be9ac4",
+        "android_client_info": {
+          "package_name": "com.example.itlearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAwJByBHdApFN9SBrmP02ujLg9AhYJpfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

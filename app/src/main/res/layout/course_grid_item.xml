@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="250dp"
+    android:layout_height="290dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="11dp"
+    app:cardElevation="11dp"
+    app:cardUseCompatPadding="true"
+    android:id="@+id/course_item">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/course_image"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/commonimagetoshow" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="30dp">
+
+            <TextView
+                android:id="@+id/course_video_count"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:text="39 videos"
+                android:layout_marginLeft="12dp"
+                android:layout_marginTop="8dp"/>
+
+            <TextView
+                android:id="@+id/course_duration"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:text="3h 34m"
+                android:gravity="right"
+                android:layout_marginRight="12dp"
+                android:layout_marginTop="8dp"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/course_name"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Python course for beginners"
+            android:textColor="@color/black"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_marginTop="8dp"
+            android:textSize="18sp"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
